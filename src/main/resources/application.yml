@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/vermeer_db
+    username: postgres
+    password: 123123
+    poll-size: 30
